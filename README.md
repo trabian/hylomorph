@@ -9,7 +9,7 @@ The goal behind Hylomorph is to provide simple components for common input types
 
 The React world has many great form component libraries, Hylomorph is not looking to recreate those, but to wrap them up, providing a standard way to display validation, labels, etc.
 
-##What's with the name?
+## What's with the name?
 
 Hylomorph is taken from the word [Hylomorphism](https://en.wikipedia.org/wiki/Hylomorphism). It is an Aristotelian notion that describes the combination of *form* and matter. Hylomorph is pronounced with a long "i" - high-luh-morph.
 
